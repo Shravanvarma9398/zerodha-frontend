@@ -30,7 +30,7 @@ function Universe() {
           <img src="media/images/goldenpiLogo.png" />
           <p className="text-small text-muted">GoldenPi is india's first online platform that allows individual investors to invest directly in bonds and debentures.</p>
         </div>
-        <div className="col-4 p-3 mt-3">
+        <div className="col-4 p-3 mt-5">
           <img src="media/images/dittoLogo.png" style={{width:"120px"}}/>
           <p className="text-small text-muted">Personalized advice on life and health insurance. No spam and no mis-selling.</p>
         </div>
